@@ -18,11 +18,31 @@ The project focuses on transforming raw engineering and business data into actio
 
 ---
 
-## Project Workflow
-
-The project follows a complete engineering analytics workflow from raw data to decision support.
-
-![Project Workflow](images/Project workflow.png)
+## Project Methodology
+1. Data Collection
+Source data imported from Excel.
+2. Data Cleaning
+Removed duplicates
+Standardized data types
+Handled missing values
+Transformed columns using Power Query
+3. Data Modeling
+Established table relationships
+Optimized the data model
+4. KPI Development
+Built DAX measures
+Created calculated columns
+Developed business KPIs
+5. Dashboard Design
+Interactive slicers
+KPI cards
+Trend analysis
+Drill-down reports
+6. Business Insights
+Revenue analysis
+Profitability analysis
+Customer segmentation
+Decision support
 
 ---
 

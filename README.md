@@ -1,63 +1,95 @@
-Power BI Engineering Analytics Project
-This repository demonstrates an end-to-end engineering data analytics project developed using Power BI, Power Query, DAX, Python, and Excel.
-The project focuses on transforming raw business data into actionable insights through interactive dashboards, KPI analysis, and automated data processing.
+# Power BI Engineering Analytics Project
 
-Power BI | Power Query | DAX | Python | Excel
+This repository demonstrates an end-to-end engineering data analytics project developed using **Power BI, Power Query, DAX, Python, and Excel**.
 
--------------------------------------
+The project focuses on transforming raw engineering and business data into actionable insights through interactive dashboards, KPI analysis, and automated data processing.
 
-(Project Overview)
-This project demonstrates the complete workflow of an engineering analytics project:
+---
 
-Data cleaning using Power Query
-Data transformation
-KPI development with DAX
-Interactive dashboard design
-Business insight generation
-Engineering report preparation
--------------------------------------
+## Tools Used
 
-(Project Workflow 图片)
+| Tool | Purpose |
+|------|---------|
+| Power BI | Interactive Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | KPI Calculation |
+| Excel | Source Dataset |
+| Python | Data Processing |
+
+---
+
 ## Project Workflow
 
-![Workflow](images/project-workflow.png)
--------------------------------------
+The project follows a complete engineering analytics workflow from raw data to decision support.
 
-(Dashboard 图片)
+![Project Workflow](images/Project workflow.png)
+
+---
+
 ## Dashboard Preview
 
-### Sales Dashboard
+### Overall Dashboard
 
-![](images/dashboard1.png)
+![Dashboard](images/1 dashboard.png)
 
 ### Financial Dashboard
 
-![](images/dashboard2.png)
--------------------------------------
+![Financial Dashboard](images/financial_dashboard.png)
 
-(Key Features)
-Interactive filtering
-Dynamic KPI cards
-Drill-down analysis
-Time-series visualization
-Data validation
-Automated transformation
--------------------------------------
+---
 
-(Repository Structure)
-Future Improvements
+## Key Features
 
+- Data Cleaning using Power Query
+- Data Transformation
+- KPI Development using DAX
+- Interactive Dashboard Design
+- Engineering Data Visualization
+- Business Insight Generation
+- Automated Data Processing
+- Engineering Report Preparation
 
+---
 
-例如
+## Repository Structure
 
-Future enhancements include:
+```
+powerbi-engineering-analytics/
 
-SQL integration
-Live database connection
-Azure deployment
-Automated refresh
-AI-assisted analytics
--------------------------------------
+│
+├── README.md
+├── PowerBI_Engineering_Analytics.pbix
+├── Power BI Final Analytical Report.pdf
+│
+└── images/
+    ├──1 dashboard.png
+    ├──2 financial_dashboard.png
+    └── Project workflow.png
+```
 
-(Project Report)
+---
+
+## Project Report
+
+A detailed analytical report is included in this repository.
+
+- Power BI Final Analytical Report.pdf
+
+---
+
+## Future Improvements
+
+Future enhancements may include:
+
+- SQL database integration
+- Live data connection
+- Azure deployment
+- Automated refresh
+- AI-assisted analytics
+- Real-time dashboard updates
+
+---
+
+## About
+
+This project was completed during the Master of Engineering Entrepreneurship & Innovation (MEEI) program at McMaster University.
